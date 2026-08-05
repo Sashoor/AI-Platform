@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/Sashoor/AI-Platform.git
     targetRevision: main
-    path: apps/ollama/base
+    path: apps
 
   destination:
     server: https://kubernetes.default.svc
